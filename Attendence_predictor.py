@@ -1,8 +1,3 @@
-"""
-PS 98 - Attendance Percentage Predictor
-Fits a straight line (np.polyfit) on weekly attendance and predicts a future week.
-"""
-
 import sys
 
 import numpy as np
